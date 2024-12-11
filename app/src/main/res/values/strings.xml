@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EjemploNavegacion</string>
+    <string name="hello_blank_fragment">hola %s</string>
+    <string name="hello_blank_fragment2">ir a fragment 2</string>
+    <string name="hello_blank_fragment3">ir a fragment 3</string>
+    <string name="hello_blank_fragment4">ir a fragment 4</string>
+
+</resources>
